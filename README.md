@@ -1,3 +1,3 @@
-# Test-Driven Development with Django, Django REST Framework, and Docker
+# Test-Driven Development with Django, Django REST Framework Docker,and CI/CD through Gitlab actions hosted on Heroku.
 
-[![pipeline status](https://gitlab.com/JREricson/django-tdd-rest/badges/master/pipeline.svg)](https://gitlab.com/JREricson//django-tdd-rest/commits/master
+Project copied. Hosted version is running through gitlab using CI/CD.
